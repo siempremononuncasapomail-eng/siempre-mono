@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "version": 2026092301,
+  "updatedAt": "2026-09-23",
+  "accounts": [
+    {
+      "handle": "TyCSports",
+      "name": "TyC Sports",
+      "group": "TyC Sports"
+    },
+    {
+      "handle": "juancortese",
+      "name": "Juan Cortese",
+      "group": "TyC Sports"
+    },
+    {
+      "handle": "jotamrinaldi",
+      "name": "Juan Martín Rinaldi",
+      "group": "TyC Sports"
+    },
+    {
+      "handle": "pablolamedica",
+      "name": "Pablo Lamédica",
+      "group": "TyC Sports"
+    },
+    {
+      "handle": "danietcheverry",
+      "name": "Daniela Etcheverry",
+      "group": "TyC Sports"
+    },
+    {
+      "handle": "MarcePalaciosMP",
+      "name": "Marcelo Palacios",
+      "group": "TyC Sports"
+    },
+    {
+      "handle": "gastonedul",
+      "name": "Gastón Edul",
+      "group": "TyC Sports"
+    },
+    {
+      "handle": "ESPNArgentina",
+      "name": "ESPN Argentina",
+      "group": "ESPN Argentina"
+    },
+    {
+      "handle": "MartinUrruty",
+      "name": "Martín Urruty",
+      "group": "ESPN Argentina"
+    },
+    {
+      "handle": "ChavoFuchs",
+      "name": "Diego Fucks",
+      "group": "ESPN Argentina"
+    },
+    {
+      "handle": "GustavoYarroch",
+      "name": "Gustavo Yarroch",
+      "group": "ESPN Argentina"
+    },
+    {
+      "handle": "leogabes",
+      "name": "Leo Gabes",
+      "group": "ESPN Argentina"
+    },
+    {
+      "handle": "leofarinella",
+      "name": "Leo Farinella",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "pablocarrozza",
+      "name": "Pablo Carrozza",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "DistasioNicolas",
+      "name": "Nicolás Distasio",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "DiazDiegoOk",
+      "name": "Diego Díaz",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "DiarioOle",
+      "name": "Olé",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "libermanmartin",
+      "name": "Martín Liberman",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "TotiPasman",
+      "name": "Toti Pasman",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "FlavioAzzaro",
+      "name": "Flavio Azzaro",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "radiolared",
+      "name": "Radio La Red",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "SC_ESPN",
+      "name": "SportsCenter",
+      "group": "ESPN Argentina"
+    },
+    {
+      "handle": "DSportsRadio",
+      "name": "DSports Radio",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "CostaFebreOK",
+      "name": "Atilio Costa Febre",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "GringoCingolani",
+      "name": "Rodolfo Cingolani",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "LaRuggeriTuiter",
+      "name": "La Ruggeri Tuiter",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "JPVarsky",
+      "name": "Juan Pablo Varsky",
+      "group": "Cuentas agregadas"
+    },
+    {
+      "handle": "VarskySports",
+      "name": "Varsky Sports",
+      "group": "Cuentas agregadas"
+    }
+  ]
+}
